@@ -1,7 +1,9 @@
 <html>
     <head>
-            <tittle>Webpag</tittle>
+            <tittle>Webpage</tittle>
      </head>
   <body>
+  <input type="username">
+  <input type="Password">
      </body>
 </html>
