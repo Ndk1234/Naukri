@@ -9,6 +9,11 @@
   <input type="name">
   <input type="class name">
   <input type=" text name">
+  <input type="class name">
+  <input type="class name">
+  <input type="class name">
+  <input type="class name">
+  <input type="class name">
 
      </body>
 </html>
